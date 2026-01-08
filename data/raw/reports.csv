@@ -1,0 +1,5 @@
+report_id,text,label
+1,"Patient experienced headache",0
+2,"Severe allergic reaction reported",1
+3,"Mild nausea after dose",0
+4,"Hospitalization due to adverse event",1
